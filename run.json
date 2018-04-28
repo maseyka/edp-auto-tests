@@ -1,0 +1,5 @@
+{
+    "sit": "echo 'Test command'",
+    "qa": "echo 'Test command'",
+    "precommit": "echo 'Test command'"
+}
