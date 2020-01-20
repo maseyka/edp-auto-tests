@@ -1,5 +1,5 @@
 {
-    "sit": "mvn test -Dendpoint=https://master.delivery.aws.main.edp.projects.epam.com -Dsurefire.suiteXmlFiles=testng-smoke-suite.xml",
+    "sit": "mvn test -Dendpoint=https://google.com -Dsurefire.suiteXmlFiles=testng-smoke-suite.xml",
     "qa": "mvn test -Dendpoint=https://master.delivery.aws.main.edp.projects.epam.com -Dsurefire.suiteXmlFiles=testng-smoke-suite.xml",
     "precommit": "mvn test -Dendpoint=https://master.delivery.aws.main.edp.projects.epam.com -Dsurefire.suiteXmlFiles=testng-smoke-suite.xml",
     "codereview": "mvn test -Dendpoint=https://master.delivery.aws.main.edp.projects.epam.com -Dsurefire.suiteXmlFiles=testng-smoke-suite.xml"
